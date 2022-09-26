@@ -18,7 +18,7 @@
         embedded_svc.settings.prepopulatedPrechatFields = {
           FirstName: "Test",
           LastName: "Test",
-          Email: "test@test.com,
+          Email: "test@test.com",
           Subject: "Test Subject"
         };
 

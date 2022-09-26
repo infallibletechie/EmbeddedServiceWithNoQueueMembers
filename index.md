@@ -15,10 +15,10 @@
       embedded_svc.settings.displayHelpButton = true; //Or false
       embedded_svc.settings.language = ''; //For example, enter 'en' or 'en-US'
       embedded_svc.settings.prepopulatedPrechatFields = {
-        FirstName: “John”,
-        LastName: “Doe”,
-        Email: “john.doe @salesforce.com”,
-        Subject: “Hello”
+        FirstName: "Test",
+        LastName: "Test",
+        Email: "test@test.com,
+        Subject: "Test Subject"
       };
       embedded_svc.settings.enabledFeatures = ['LiveAgent'];
       embedded_svc.settings.entryFeature = 'LiveAgent';
